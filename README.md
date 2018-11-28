@@ -35,6 +35,20 @@ C:\ws_rak\react\reactapp\
 		- servicWorker.js
 ```
 
+```
+http://localhost:3000 (displayes following details)
+Id: 1 | Name: Leanne Graham | Username: Bret | Email: Sincere@april.biz | Phone: 1-770-736-8031 x56442| Address: Kulas Light, Apt. 556, Gwenborough, 92998-3874
+Id: 2 | Name: Ervin Howell | Username: Antonette | Email: Shanna@melissa.tv | Phone: 010-692-6593 x09125| Address: Victor Plains, Suite 879, Wisokyburgh, 90566-7771
+Id: 3 | Name: Clementine Bauch | Username: Samantha | Email: Nathan@yesenia.net | Phone: 1-463-123-4447| Address: Douglas Extension, Suite 847, McKenziehaven, 59590-4157
+Id: 4 | Name: Patricia Lebsack | Username: Karianne | Email: Julianne.OConner@kory.org | Phone: 493-170-9623 x156| Address: Hoeger Mall, Apt. 692, South Elvis, 53919-4257
+Id: 5 | Name: Chelsey Dietrich | Username: Kamren | Email: Lucio_Hettinger@annie.ca | Phone: (254)954-1289| Address: Skiles Walks, Suite 351, Roscoeview, 33263
+Id: 6 | Name: Mrs. Dennis Schulist | Username: Leopoldo_Corkery | Email: Karley_Dach@jasper.info | Phone: 1-477-935-8478 x6430| Address: Norberto Crossing, Apt. 950, South Christy, 23505-1337
+Id: 7 | Name: Kurtis Weissnat | Username: Elwyn.Skiles | Email: Telly.Hoeger@billy.biz | Phone: 210.067.6132| Address: Rex Trail, Suite 280, Howemouth, 58804-1099
+Id: 8 | Name: Nicholas Runolfsdottir V | Username: Maxime_Nienow | Email: Sherwood@rosamond.me | Phone: 586.493.6943 x140| Address: Ellsworth Summit, Suite 729, Aliyaview, 45169
+Id: 9 | Name: Glenna Reichert | Username: Delphine | Email: Chaim_McDermott@dana.io | Phone: (775)976-6794 x41206| Address: Dayna Park, Suite 449, Bartholomebury, 76495-3109
+Id: 10 | Name: Clementina DuBuque | Username: Moriah.Stanton | Email: Rey.Padberg@karina.biz | Phone: 024-648-3804| Address: Kattie Turnpike, Suite 198, Lebsackbury, 31428-2261
+```
+
 ## Reference Materials (and other useful links)
 1. https://reactjs.org/
 2. https://jsonplaceholder.typicode.com/users (sample JSON)
