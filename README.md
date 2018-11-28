@@ -3,12 +3,14 @@
 
 ## Steps
 
-1. Start the Spring Boot application.
-2. Test the application using url - `http://localhost:8090/insurance/api/`
+1. Make a folder structure - `C:\ws_rak\react`
+2. Go to folder - `cd C:\ws_rak\react`
+3. Create a React project 'reactapp' under above folder - `create-react-app reactapp`
+4. Go to newly created project - `C:\ws_rak\react\reactapp`
+5. Start the Application - `npm start`
+6. Test application - `http://localhost:3000` 
 
-Video: https://www.youtube.com/watch?v=hzLDsxPGctY&feature=youtu.be 
-
-
+Video (ref): https://www.youtube.com/watch?v=hzLDsxPGctY&feature=youtu.be (React js Tutorial - How To Get Data From An API With React)
 
 ---
 
