@@ -10,7 +10,8 @@
 5. Start the Application - `npm start`
 6. Test application - `http://localhost:3000` 
 
-Video (ref): https://www.youtube.com/watch?v=hzLDsxPGctY&feature=youtu.be (React js Tutorial - How To Get Data From An API With React)
+## Ref Materials
+Video: https://www.youtube.com/watch?v=hzLDsxPGctY&feature=youtu.be (React js Tutorial - How To Get Data From An API With React)
 
 ---
 
