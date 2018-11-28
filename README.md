@@ -11,7 +11,7 @@
 2. Go to folder - `cd C:\ws_rak\react`
 3. Create a React project 'reactapp' under above folder - `create-react-app reactapp`
 4. Go to newly created project - `C:\ws_rak\react\reactapp`
-5. Start the Application - `npm start`
+5. Start the application - `npm start`
 6. Test application - `http://localhost:3000` 
 
 ## Ref Materials
