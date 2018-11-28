@@ -53,6 +53,7 @@ Id: 10 | Name: Clementina DuBuque | Username: Moriah.Stanton | Email: Rey.Padber
 1. https://reactjs.org/
 2. https://jsonplaceholder.typicode.com/users (sample JSON being used)
 3. https://code.visualstudio.com/ (IDE - Visual Studio Code)
+4. https://jsonformatter.org/ (JSON Formatter)
 
 ## Defintions
 1. React: Its a JavaScript library for building user interfaces. React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
