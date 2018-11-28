@@ -1,6 +1,18 @@
 # reactapp
 
+# hello-insurance
+---
 
+## Steps
+
+1. Start the Spring Boot application.
+2. Test the application using url - `http://localhost:8090/insurance/api/`
+
+Video: https://www.youtube.com/watch?v=hzLDsxPGctY&feature=youtu.be 
+
+
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
