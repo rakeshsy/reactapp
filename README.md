@@ -16,13 +16,23 @@
 
 ```
 C:\ws_rak\react\reactapp\
-	+ node_modules
-	+ public
-	+ src
 	- package-lock.json
 	- package.json
 	- README.md
 	- .gitignore
+	+ node_modules
+	+ public
+		- index.html
+		- manifest.json
+		- favicon.ico	
+	+ src
+		- App.css
+		- App.js
+		- App.test.js
+		- index.css
+		- index.js
+		- logo.svg	
+		- servicWorker.js
 ```
 
 ## Reference Materials (and other useful links)
