@@ -19,6 +19,12 @@
 2. https://reactjs.org/
 3. https://code.visualstudio.com/ (IDE - Visual Studio Code)
 
+## Defintions
+1. React: Its a JavaScript library for building user interfaces. React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
+2. Node.js: Its an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser.
+3. npm: Its a package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js. It consists of a command line client, also called npm, and an online database of public and paid-for private packages, called the npm registry.
+4. Bbbel: Its a JavaScript compiler that includes the ability to compile JSX into regular JavaScript.
+
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
