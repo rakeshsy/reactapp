@@ -36,7 +36,7 @@ C:\ws_rak\react\reactapp\
 ```
 
 ```
-http://localhost:3000 (displayes following details)
+http://localhost:3000 (displays following data)
 Id: 1 | Name: Leanne Graham | Username: Bret | Email: Sincere@april.biz | Phone: 1-770-736-8031 x56442| Address: Kulas Light, Apt. 556, Gwenborough, 92998-3874
 Id: 2 | Name: Ervin Howell | Username: Antonette | Email: Shanna@melissa.tv | Phone: 010-692-6593 x09125| Address: Victor Plains, Suite 879, Wisokyburgh, 90566-7771
 Id: 3 | Name: Clementine Bauch | Username: Samantha | Email: Nathan@yesenia.net | Phone: 1-463-123-4447| Address: Douglas Extension, Suite 847, McKenziehaven, 59590-4157
