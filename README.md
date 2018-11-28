@@ -14,6 +14,17 @@
 5. Start the application - `npm start`
 6. Test application - `http://localhost:3000` 
 
+```
+C:\ws_rak\react\reactapp\
+	+ node_modules
+	+ public
+	+ src
+	- package-lock.json
+	- package.json
+	- README.md
+	- .gitignore
+```
+
 ## Reference Materials (and other useful links)
 1. https://reactjs.org/
 2. https://jsonplaceholder.typicode.com/users (sample JSON)
