@@ -1,6 +1,4 @@
 # reactapp
-
-# hello-insurance
 ---
 
 ## Steps
