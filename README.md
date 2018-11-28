@@ -1,8 +1,12 @@
 # reactapp
 ---
 
-## Steps
+## Prerequisites
+1. Make sure Node.js is installed - `https://nodejs.org/en/`
+2. Check the version of npm - `npm -v`
+3. Install create-react-app - `npm install -g create-react-app`
 
+## Steps (create a new project, and run it)
 1. Make a folder structure - `C:\ws_rak\react`
 2. Go to folder - `cd C:\ws_rak\react`
 3. Create a React project 'reactapp' under above folder - `create-react-app reactapp`
